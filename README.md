@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrsazza
+- 👋 Hi, I’m Shahriar Hossain Sazza
 - 👀 I’m interested in IOS app development
 - 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on any IOS app
