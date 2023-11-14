@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Shahriar Hossain Sazza
-- 👀 I’m interested in IOS app development
-- 🌱 I’m currently learning Swift and SwiftUI
-- 💞️ I’m looking to collaborate on any IOS app
-- 📫 Reach me at shahriarhossain147@gmail.com
+- 👋 Hi, I’m Shahriar Hossain Sazza |
+- 📱 Freelance iOS App developer  |
+- 🚀 Swift & SwiftUI enthusiast |
+- 💻 Turning ideas into elegant code |
+- 💞️ Passionate about innovation and collaboration |
+- 🌱 Let's code the future together! |
+- 📫 Reach me at contact@isazza.com |
 
 <!---
 Mrsazza/Mrsazza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
