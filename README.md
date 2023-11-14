@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahriar Hossain Sazza |
-- 📱 Freelance iOS App developer  |
+- 📱 Top Rated, Lead iOS App developer  |
 - 🚀 Swift & SwiftUI enthusiast |
 - 💻 Turning ideas into elegant code |
 - 💞️ Passionate about innovation and collaboration |
